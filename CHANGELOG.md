@@ -1,12 +1,6 @@
 # Change Log
 
-## Unreleased
-### Improvements
-
-- 2020-08-20 - Added `get_segment()` helper that detects the current page
-    - Updated files(s): app/views.py
-
-## [1.0.0] 2020-06-08
+## [1.0.0] 2020-08-24
 ### Initial Release
 
 - Update Licensing information

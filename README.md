@@ -1,4 +1,4 @@
-# [Jinja2 Template](https://theme-jinja2.appseed.us/)
+# [Jinja Template - Volt Dashboard](https://jinja-template-volt-dashboard.appseed.us/)
 
 > Template Theme provided by [AppSeed](https://appseed.us) - Features:
 
@@ -10,23 +10,15 @@
 
 > Links
 
-- [Template Jinja2 Theme](https://theme-jinja2.appseed.us/) - LIVE Demo
+- [Jinja Template - Volt Dashboard](https://jinja-template-volt-dashboard.appseed.us/) - LIVE Demo
 
 <br />
 
-## UI Kit - [Neumorphism UI](https://themesberg.com/product/ui-kits/neumorphism-ui-kit-bootstrap)
+## UI Kit - [Volt - Bootstrap5 Dashboard](https://themesberg.com/product/admin-dashboard/volt-bootstrap-5-dashboard)
 
-*Vendor Notes* - Start developing neumorphism (aka. neomorphism) inspired layouts, web apps and pages with this free UI Kit. It features over 200 individual components and 5 example pages. Neumorphism UI makes use of the original neumorphism design specs.
-All components are perfectly in compliance with the neumorphism design trend making use of the specific shadow and coloring attributes. Neumorphism UI also comes with the shadow inset style add-on. Only some neumorphic components that are included are timelines, profile cards, pricing cards, call to action sections and many more.
+*Vendor Notes* - Volt is a free and open source Bootstrap 5 Admin Dashboard featuring over 100 components, 11 example pages and 3 plugins with Vanilla JS.
 
-> Links
-
-- [Neumorphism UI](https://themesberg.com/product/ui-kits/neumorphism-ui-kit-bootstrap) - product page
-- [Neumorphism UI Docs](https://themesberg.com/docs/neumorphism-ui/getting-started/quick-start/)
-
-<br />
-
-![Template Jinja2 Theme - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/theme-jinja2/master/media/theme-jinja2-screen.png)
+![Template Jinja2 Theme - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/jinja-template-volt-dashboard/master/media/jinja-template-volt-dashboard-screen.png)
 
 <br />
 
@@ -34,8 +26,8 @@ All components are perfectly in compliance with the neumorphism design trend mak
 
 ```bash
 $ # Clone the sources
-$ git clone https://github.com/app-generator/theme-jinja2.git
-$ cd theme-jinja2
+$ git clone https://github.com/app-generator/jinja-template-volt-dashboard.git
+$ cd jinja-template-volt-dashboard
 $
 $ # Virtualenv modules installation (Unix based systems)
 $ virtualenv env
@@ -124,8 +116,8 @@ The steps to start the template using Docker:
 > Get the code
 
 ```bash
-$ git clone https://github.com/app-generator/theme-jinja2.git
-$ cd theme-jinja2
+$ git clone https://github.com/app-generator/jinja-template-volt-dashboard.git
+$ cd jinja-template-volt-dashboard
 ```
 
 > Start the app in Docker
@@ -187,4 +179,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Jinja2 Template](https://theme-jinja2.appseed.us/) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Jinja Template - Volt Dashboard](https://jinja-template-volt-dashboard.appseed.us/) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
