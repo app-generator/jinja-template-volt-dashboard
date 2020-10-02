@@ -1,4 +1,4 @@
-# [Jinja Template - Volt Dashboard](https://jinja-template-volt-dashboard.appseed.us/)
+# [Jinja Template - Volt Dashboard](https://appseed.us/jinja-template/jinja-template-volt-dashboard)
 
 > Template Theme provided by [AppSeed](https://appseed.us) - Features:
 
@@ -10,7 +10,8 @@
 
 > Links
 
-- [Jinja Template - Volt Dashboard](https://jinja-template-volt-dashboard.appseed.us/) - LIVE Demo
+- [Jinja Volt Dashboard](https://appseed.us/jinja-template/jinja-template-volt-dashboard) - Product page
+- [Jinja Volt Dashboard - Demo](https://jinja-template-volt-dashboard.appseed.us/) - LIVE Demo
 
 <br />
 
@@ -179,4 +180,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Jinja Template - Volt Dashboard](https://jinja-template-volt-dashboard.appseed.us/) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Jinja Template - Volt Dashboard](https://appseed.us/jinja-template/jinja-template-volt-dashboard) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
