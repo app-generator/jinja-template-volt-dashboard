@@ -33,7 +33,7 @@ Volt is a free and open source **Bootstrap 5** powered admin dashboard with comp
 
 <br />
 
-![Template Jinja2 Theme - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/jinja-template-volt-dashboard/master/media/jinja-template-volt-dashboard-screen.png)
+![Jinja Volt Bootstrap 5 - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/jinja-template-volt-dashboard/master/media/jinja-template-volt-dashboard-screen.png)
 
 <br />
 
